@@ -6,10 +6,10 @@
 
   ### 🚀 Desarrollador de Aplicaciones Multiplataforma | Diseñador UI/UX
   
-  *De la precisión clínica de la UCI a la arquitectura de software robusta.*
+  *Creador de soluciones eficientes y accesibles.*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandevalois)
-  [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devaloiselian@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandevalois)
+  [![Email](https://img.shields.io/badge/Email-contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devaloiselian@gmail.com)
 
 </div>
 
@@ -20,10 +20,10 @@
 Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un trasfondo profesional único. Vengo del sector sanitario (**UCI**) y la gestión comercial, lo que me ha dotado de unas *soft skills* difíciles de encontrar en perfiles junior:
 
 * 🩸 **Gestión de la presión:** Acostumbrado a tomar decisiones críticas siguiendo protocolos estrictos.
-* 🎯 **Visión de Producto:** Certificado en **UX por Google**, entiendo que el código debe servir al usuario.
-* 🤝 **Trabajo en equipo:** La comunicación efectiva es mi estándar, no un extra.
+* 🎯 **Visión de Producto:** Certificado en **UX por Google**, entiendo que código y necesidades necesita el usuario.
+* 🤝 **Trabajo en equipo:** La comunicación efectiva y empatía son estándares, no extras.
 
-Actualmente, estoy enfocado en el desarrollo móvil con **Flutter**, explorando la integración nativa y el código limpio.
+Actualmente, estoy enfocado en el desarrollo móvil con **Flutter**, explorando la integración nativa y la Clean Architecture.
 
 ---
 
@@ -55,15 +55,6 @@ Herramienta para optimizar la entrada y salida de mercancías mediante lectura Q
 
 ---
 
-### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" height="160" alt="Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Diseñado con pasión y disciplina en Tenerife, Canarias 🇮🇨</sub>
+  <sub>Diseñado con pasión y disciplina en Santa Cruz de Tenerife 🇮🇨</sub>
 </div>
