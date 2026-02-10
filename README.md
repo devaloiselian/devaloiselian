@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hola,%20soy%20Elian%20De%20Valois&fontSize=70&fontColor=ffffff&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hola,%20soy%20Elian&fontSize=70&fontColor=ffffff&fontAlignY=35" alt="Header" />
 </div>
 
 <div align="center">
