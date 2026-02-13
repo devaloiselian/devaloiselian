@@ -20,7 +20,7 @@
 Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un trasfondo profesional único. Vengo del sector sanitario (**UCI**) y la gestión comercial, lo que me ha dotado de unas *soft skills* difíciles de encontrar en perfiles junior:
 
 * 🩸 **Gestión de la presión:** Acostumbrado a tomar decisiones críticas siguiendo protocolos estrictos.
-* 🎯 **Visión de Producto:** Certificado en **UX por Google**, entiendo que código y necesidades necesita el usuario.
+* 🎯 **Visión de Producto:** Certificado en **UX por Google**, entiendo y proceso las necesidades del usuario.
 * 🤝 **Trabajo en equipo:** La comunicación efectiva y empatía son estándares, no extras.
 
 Actualmente, estoy enfocado en el desarrollo móvil con **Flutter**, explorando la integración nativa y la Clean Architecture.
